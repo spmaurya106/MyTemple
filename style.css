@@ -15,13 +15,9 @@ body{
   text-align: center;
 }
 .imgcenter{
-   
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-      }
-
+    margin-left:100px;
+     width: 260px;
+     height: 300px;
       .fa {
         padding: 10px;
         font-size: 10px;
@@ -145,14 +141,21 @@ body{
         margin: 0;
         padding: 0;
         }
-      div.img {
+      /* div.img {
         background-image: url('/Images/Temple1.jpg');
-        background-position: center center;
+        /* background-position: center center;
         background-repeat: no-repeat;
         background-size: contain;
-        width: 100vw;
-        height: 100vh;
+        height: 400px; */
         }
+
+        /* div.img2 {
+          background-image: url('/Images/Jai\ Bhole\ Nath.jpg'); */
+          /* background-position: center center;
+          background-repeat: no-repeat;
+          background-size: contain;
+          height: 300px; */
+          } */
 
 
         
