@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .mahamantra{
     padding-left: 50px;
     background: url("Images/Temple1.jpg") left no-repeat;
@@ -19,25 +18,3 @@ body{
         width: 50%;
       }
 
-=======
-.mahamantra{
-    padding-left: 50px;
-    background: url("Images/Temple1.jpg") left no-repeat;
-    background-size:contain;
-    text-align: left;
-    
-}
-
-body{
-    background-color: lightgoldenrodyellow;
-    
-}
-.imgcenter{
-   
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-      }
-
->>>>>>> f9510a4ae30ad52cf22d87bab40156b7cf5ff8b5
